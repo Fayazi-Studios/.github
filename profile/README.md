@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://wa.me/923197991678?text=Hi%20Fayazi%20Studios%2C%20I%27d%20like%20to%20discuss%20a%20project."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:support@fayazistudios.com"><img src="https://img.shields.io/badge/Email-FF6A3D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://fayazi-studios.github.io"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://fayazistudios.com"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
@@ -46,4 +46,4 @@
 
 ---
 
-<p align="center">Founded by <a href="https://github.com/Sulman-Ahmad">Sulman Ahmad</a> · <a href="https://fayazi-studios.github.io">fayazi-studios.github.io</a></p>
+<p align="center">Founded by <a href="https://github.com/Sulman-Ahmad">Sulman Ahmad</a> · <a href="https://fayazistudios.com">fayazistudios.com</a></p>
